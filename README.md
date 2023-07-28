@@ -33,7 +33,7 @@ The completed application should meet the following criteria:
 https://eugeneisingizwe.github.io/Library-of-Congress-Search-Tool/
 ## MocK Up
 
-![Screenshot of home page](./main/assets/Image/homepage.png)
-![Screenshot of my result page](./main/assets/Image/resultpage.png)
+![Screenshot of home page](./assets/Image/homepage.png)
+![Screenshot of my result page](./assets/Image/resultpage.png)
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
